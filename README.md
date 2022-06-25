@@ -24,3 +24,7 @@ hmm을 활용해서 언어를 국적을 판별하는 모델을 생성하였습�
 ## AS4_2. RNN(recurrent neural network)
 
 RNN의 기본적인 구조를 설계하고 시계열 데이터를 feeding하여 학습시켰습니다. 다양한 국적의 단어를 학습시켜 target 국적의 언어와 유사한 알파벳 시퀀스를 생성하는 모델을 생성하였습니다.
+
+## Final Project
+
+CNN-GRU 아키텍처를 활용해서 등차수열의 next sequence를 예측하는 프로젝트를 진행했습니다.
